@@ -1,1 +1,1 @@
-# jt-apollo-training
+# apollo-jonathan-tremblay-sdi
